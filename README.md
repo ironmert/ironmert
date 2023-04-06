@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Backend Web Development with Java**
 
-- 👨‍💻 All of my projects are available at [mertmir](https://github.com/ironmert)
+- 👨‍💻 All of my projects are available at [github/ironmert](https://github.com/ironmert)
 
 - 📫 How to reach me **iletisim@mertmir.net**
 
