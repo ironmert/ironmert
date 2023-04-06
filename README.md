@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mert Demir</h1>
+<h1 align="center">Hi Everyone 👋, I'm Mert Demir</h1>
 <h3 align="center">A passionate web developer from Türkiye.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ironmert&label=Profile%20views&color=0e75b6&style=flat" alt="ironmert" /> </p>
